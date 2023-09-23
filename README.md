@@ -42,7 +42,7 @@ SUPABASE_ANON_KEY: "XXXX",
 ## File Structure
 
 ```shell
-Expo Starter/
+fluyo-coding-test/
 ├─ app/
 │  ├─ components/
 │  ├─ config/
@@ -57,8 +57,7 @@ Expo Starter/
 ├─ supabase/
 │  ├─ functions/
 │  ├─ types/
-App.tsx
-
+├─ App.tsx
 ```
 
 ## Screens
